@@ -1,0 +1,17 @@
+<template>
+    <lightning-card title="Coca Cola Products">
+        <div class="slds-m-around_medium">
+            
+            <template for:each={products} for:item="item">
+                
+                <lightning-card key={item.id} title={item.name}>
+                    <img key={item.id} src={item.imageUrl} alt="product image"/>
+                    <p key={item.id}>{item.price}</p>
+                    <hr key={item.id}/>
+                </lightning-card>
+
+            </template>
+
+        </div>
+    </lightning-card>
+</template>
