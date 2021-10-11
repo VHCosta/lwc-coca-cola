@@ -1,6 +1,10 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Coca Cola Store
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+A Salesforce DX project featuring a store to sell faux products, to gauge knowledge about Salesforce LWC and Community.
+
+
+[More general info about SFDX and deployment below -- generated automatically by SFDX:]
+
 
 ## How Do You Plan to Deploy Your Changes?
 
